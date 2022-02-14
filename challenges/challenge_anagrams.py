@@ -20,3 +20,7 @@ def is_anagram(first_string, second_string):
         return True
     else:
         return False
+
+
+# quicksort referencia
+# https://www.delftstack.com/pt/howto/python/sort-list-alphabetically/
